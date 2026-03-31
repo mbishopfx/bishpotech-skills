@@ -6,6 +6,7 @@
   "scripts": {
     "skills:generate": "node scripts/generate-bishop-skills.mjs",
     "skills:export": "node scripts/export-skills-to-website.mjs",
-    "skills:run": "npm run skills:generate && npm run skills:export"
+    "skills:push": "node scripts/commit-and-push.mjs",
+    "skills:run": "npm run skills:generate && npm run skills:export && npm run skills:push"
   }
 }
