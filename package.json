@@ -1,0 +1,11 @@
+{
+  "name": "bishoptech-skills",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "skills:generate": "node scripts/generate-bishop-skills.mjs",
+    "skills:export": "node scripts/export-skills-to-website.mjs",
+    "skills:run": "npm run skills:generate && npm run skills:export"
+  }
+}

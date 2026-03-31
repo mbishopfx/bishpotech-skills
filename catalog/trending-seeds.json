@@ -1,0 +1,17 @@
+{
+  "sources": [
+    {
+      "name": "skills.sh leaderboard seeds",
+      "capturedAt": "2026-03-30T21:45:00-05:00",
+      "entries": [
+        "microsoft/github-copilot-for-azure",
+        "microsoft/azure-skills",
+        "inferen-sh/skills",
+        "pbakaus/impeccable",
+        "coreyhaines31/marketingskills",
+        "xixu-me/skills",
+        "larksuite/cli"
+      ]
+    }
+  ]
+}

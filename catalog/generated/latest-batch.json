@@ -1,0 +1,96 @@
+{
+  "generatedAt": "2026-03-31T02:44:05.183Z",
+  "count": 10,
+  "skills": [
+    {
+      "name": "bishoptech-agent-creator",
+      "sourceName": "agent-creator",
+      "sourcePath": "/Users/matthewbishop/.openclaw/workspace/skills/agent-creator/SKILL.md",
+      "folder": "/Users/matthewbishop/BishopTech.dev/bishoptech-skills/skills/bishoptech-agent-creator",
+      "generatedAt": "2026-03-31T02:44:05.183Z",
+      "installMode": "manual-folder-or-copy",
+      "status": "ready-for-review"
+    },
+    {
+      "name": "bishoptech-find-skills",
+      "sourceName": "find-skills",
+      "sourcePath": "/Users/matthewbishop/.agents/skills/find-skills/SKILL.md",
+      "folder": "/Users/matthewbishop/BishopTech.dev/bishoptech-skills/skills/bishoptech-find-skills",
+      "generatedAt": "2026-03-31T02:44:05.183Z",
+      "installMode": "manual-folder-or-copy",
+      "status": "ready-for-review"
+    },
+    {
+      "name": "bishoptech-vercel-react-best-practices",
+      "sourceName": "vercel-react-best-practices",
+      "sourcePath": "/Users/matthewbishop/.agents/skills/vercel-react-best-practices/SKILL.md",
+      "folder": "/Users/matthewbishop/BishopTech.dev/bishoptech-skills/skills/bishoptech-vercel-react-best-practices",
+      "generatedAt": "2026-03-31T02:44:05.183Z",
+      "installMode": "manual-folder-or-copy",
+      "status": "ready-for-review"
+    },
+    {
+      "name": "bishoptech-next-best-practices",
+      "sourceName": "next-best-practices",
+      "sourcePath": "/Users/matthewbishop/.agents/skills/next-best-practices/SKILL.md",
+      "folder": "/Users/matthewbishop/BishopTech.dev/bishoptech-skills/skills/bishoptech-next-best-practices",
+      "generatedAt": "2026-03-31T02:44:05.183Z",
+      "installMode": "manual-folder-or-copy",
+      "status": "ready-for-review"
+    },
+    {
+      "name": "bishoptech-seo-audit",
+      "sourceName": "seo-audit",
+      "sourcePath": "/Users/matthewbishop/.agents/skills/seo-audit/SKILL.md",
+      "folder": "/Users/matthewbishop/BishopTech.dev/bishoptech-skills/skills/bishoptech-seo-audit",
+      "generatedAt": "2026-03-31T02:44:05.183Z",
+      "installMode": "manual-folder-or-copy",
+      "status": "ready-for-review"
+    },
+    {
+      "name": "bishoptech-schema-markup",
+      "sourceName": "schema-markup",
+      "sourcePath": "/Users/matthewbishop/.agents/skills/schema-markup/SKILL.md",
+      "folder": "/Users/matthewbishop/BishopTech.dev/bishoptech-skills/skills/bishoptech-schema-markup",
+      "generatedAt": "2026-03-31T02:44:05.183Z",
+      "installMode": "manual-folder-or-copy",
+      "status": "ready-for-review"
+    },
+    {
+      "name": "bishoptech-scrapling-research",
+      "sourceName": "scrapling-research",
+      "sourcePath": "/Users/matthewbishop/.agents/skills/scrapling-research/SKILL.md",
+      "folder": "/Users/matthewbishop/BishopTech.dev/bishoptech-skills/skills/bishoptech-scrapling-research",
+      "generatedAt": "2026-03-31T02:44:05.183Z",
+      "installMode": "manual-folder-or-copy",
+      "status": "ready-for-review"
+    },
+    {
+      "name": "bishoptech-frontend-design",
+      "sourceName": "frontend-design",
+      "sourcePath": "/Users/matthewbishop/.agents/skills/frontend-design/SKILL.md",
+      "folder": "/Users/matthewbishop/BishopTech.dev/bishoptech-skills/skills/bishoptech-frontend-design",
+      "generatedAt": "2026-03-31T02:44:05.183Z",
+      "installMode": "manual-folder-or-copy",
+      "status": "ready-for-review"
+    },
+    {
+      "name": "bishoptech-copywriting",
+      "sourceName": "copywriting",
+      "sourcePath": "/Users/matthewbishop/.agents/skills/copywriting/SKILL.md",
+      "folder": "/Users/matthewbishop/BishopTech.dev/bishoptech-skills/skills/bishoptech-copywriting",
+      "generatedAt": "2026-03-31T02:44:05.183Z",
+      "installMode": "manual-folder-or-copy",
+      "status": "ready-for-review"
+    },
+    {
+      "name": "bishoptech-analytics-tracking",
+      "sourceName": "analytics-tracking",
+      "sourcePath": "/Users/matthewbishop/.agents/skills/analytics-tracking/SKILL.md",
+      "folder": "/Users/matthewbishop/BishopTech.dev/bishoptech-skills/skills/bishoptech-analytics-tracking",
+      "generatedAt": "2026-03-31T02:44:05.183Z",
+      "installMode": "manual-folder-or-copy",
+      "status": "ready-for-review"
+    }
+  ]
+}

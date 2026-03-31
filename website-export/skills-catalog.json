@@ -1,0 +1,92 @@
+[
+  {
+    "slug": "bishoptech-agent-creator",
+    "title": "agent creator",
+    "installMode": "manual-folder-or-copy",
+    "status": "ready-for-review",
+    "generatedAt": "2026-03-31T02:44:05.183Z",
+    "sourceName": "agent-creator",
+    "localFolder": "/Users/matthewbishop/BishopTech.dev/bishoptech-skills/skills/bishoptech-agent-creator"
+  },
+  {
+    "slug": "bishoptech-analytics-tracking",
+    "title": "analytics tracking",
+    "installMode": "manual-folder-or-copy",
+    "status": "ready-for-review",
+    "generatedAt": "2026-03-31T02:44:05.183Z",
+    "sourceName": "analytics-tracking",
+    "localFolder": "/Users/matthewbishop/BishopTech.dev/bishoptech-skills/skills/bishoptech-analytics-tracking"
+  },
+  {
+    "slug": "bishoptech-copywriting",
+    "title": "copywriting",
+    "installMode": "manual-folder-or-copy",
+    "status": "ready-for-review",
+    "generatedAt": "2026-03-31T02:44:05.183Z",
+    "sourceName": "copywriting",
+    "localFolder": "/Users/matthewbishop/BishopTech.dev/bishoptech-skills/skills/bishoptech-copywriting"
+  },
+  {
+    "slug": "bishoptech-find-skills",
+    "title": "find skills",
+    "installMode": "manual-folder-or-copy",
+    "status": "ready-for-review",
+    "generatedAt": "2026-03-31T02:44:05.183Z",
+    "sourceName": "find-skills",
+    "localFolder": "/Users/matthewbishop/BishopTech.dev/bishoptech-skills/skills/bishoptech-find-skills"
+  },
+  {
+    "slug": "bishoptech-frontend-design",
+    "title": "frontend design",
+    "installMode": "manual-folder-or-copy",
+    "status": "ready-for-review",
+    "generatedAt": "2026-03-31T02:44:05.183Z",
+    "sourceName": "frontend-design",
+    "localFolder": "/Users/matthewbishop/BishopTech.dev/bishoptech-skills/skills/bishoptech-frontend-design"
+  },
+  {
+    "slug": "bishoptech-next-best-practices",
+    "title": "next best practices",
+    "installMode": "manual-folder-or-copy",
+    "status": "ready-for-review",
+    "generatedAt": "2026-03-31T02:44:05.183Z",
+    "sourceName": "next-best-practices",
+    "localFolder": "/Users/matthewbishop/BishopTech.dev/bishoptech-skills/skills/bishoptech-next-best-practices"
+  },
+  {
+    "slug": "bishoptech-schema-markup",
+    "title": "schema markup",
+    "installMode": "manual-folder-or-copy",
+    "status": "ready-for-review",
+    "generatedAt": "2026-03-31T02:44:05.183Z",
+    "sourceName": "schema-markup",
+    "localFolder": "/Users/matthewbishop/BishopTech.dev/bishoptech-skills/skills/bishoptech-schema-markup"
+  },
+  {
+    "slug": "bishoptech-scrapling-research",
+    "title": "scrapling research",
+    "installMode": "manual-folder-or-copy",
+    "status": "ready-for-review",
+    "generatedAt": "2026-03-31T02:44:05.183Z",
+    "sourceName": "scrapling-research",
+    "localFolder": "/Users/matthewbishop/BishopTech.dev/bishoptech-skills/skills/bishoptech-scrapling-research"
+  },
+  {
+    "slug": "bishoptech-seo-audit",
+    "title": "seo audit",
+    "installMode": "manual-folder-or-copy",
+    "status": "ready-for-review",
+    "generatedAt": "2026-03-31T02:44:05.183Z",
+    "sourceName": "seo-audit",
+    "localFolder": "/Users/matthewbishop/BishopTech.dev/bishoptech-skills/skills/bishoptech-seo-audit"
+  },
+  {
+    "slug": "bishoptech-vercel-react-best-practices",
+    "title": "vercel react best practices",
+    "installMode": "manual-folder-or-copy",
+    "status": "ready-for-review",
+    "generatedAt": "2026-03-31T02:44:05.183Z",
+    "sourceName": "vercel-react-best-practices",
+    "localFolder": "/Users/matthewbishop/BishopTech.dev/bishoptech-skills/skills/bishoptech-vercel-react-best-practices"
+  }
+]
