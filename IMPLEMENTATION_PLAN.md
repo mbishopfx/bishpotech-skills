@@ -19,7 +19,9 @@ Every 2 hours the pipeline should:
 ## Current v1 implementation
 - local generator scaffold in `scripts/generate-bishop-skills.mjs`
 - website export scaffold in `scripts/export-skills-to-website.mjs`
+- auto commit/push step in `scripts/commit-and-push.mjs`
 - cron runner/install scripts in `cron/`
+- GitHub remote target configured for dedicated skills repo
 - output folders:
   - `skills/`
   - `catalog/generated/`

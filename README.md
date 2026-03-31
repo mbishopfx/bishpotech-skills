@@ -22,4 +22,5 @@ A recurring job runs every 2 hours to:
 1. inspect trending/candidate skills
 2. generate BishopTech-upgraded skill packages in new folders
 3. prepare website install/download content
-4. avoid direct install/publish actions
+4. commit and push new skill batches to the dedicated GitHub repo
+5. avoid direct installation of third-party source skills into active agent environments
